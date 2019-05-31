@@ -34,7 +34,7 @@ Projects
 
 These are the current and past projects:
 
-* [Generic Dijkstra](gd)
+* [Generic Dijkstra](gde)
 * [The ABCD software](abcd)
 * [The PERFOR software](perfor)
 * [The AVAILA software](availa)
