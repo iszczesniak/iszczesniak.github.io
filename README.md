@@ -1,6 +1,6 @@
 # Home Page of Ireneusz (Irek) SZCZEŚNIAK
 
-![align = "right"](us.jpg)
+<img align="right" src="us.jpg">
 
 I'm a researcher and an academic teacher at the Institute of Computer
 and Information Sciences of the Częstochowa University of Technology,
