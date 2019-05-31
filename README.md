@@ -17,14 +17,6 @@ Curriculum vitae
 
 [Download my CV in the PDF format.](cv.pdf)
 
-Other stuff
------------
-
-* [My wife's site](http://www.wozna.org)
-* [My mom's site](http://www.halinaszczesniak.org)
-* [My bro's site](http://ultra.cto.us.edu.pl/%7Ekport)
-* [My games for Atari](atari)
-
 Contact
 -------
 
