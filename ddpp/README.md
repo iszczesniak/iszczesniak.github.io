@@ -1,3 +1,0 @@
-The DDPP software
-=================
-
