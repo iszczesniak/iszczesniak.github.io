@@ -10,8 +10,9 @@ PhD in computer science from the Polish Academy of Sciences for my
 work on performance evaluation of optical packet-switched networks.  I
 have worked at various laboratories and companies in the USA, and have
 got several awards, most notably the Polish National Science Center
-fellowship and the Fulbright fellowship.  But most of all, I'm a
-programmer.
+fellowship and the Fulbright fellowship.  I'm the proud inventor of
+the [generic Dijkstra algorithm](https://arxiv.org/abs/1810.04481).
+But most of all, I'm a programmer.
 
 ## Curriculum vitae
 
