@@ -1,7 +1,7 @@
 Home Page of Ireneusz (Irek) SZCZEŚNIAK
 =======================================
 
-![This is us.](us.jpg "This is us.")
+![align = "right"](us.jpg)
 
 I'm a researcher and an academic teacher at the Institute of Computer
 and Information Sciences of the Częstochowa University of Technology,
