@@ -1,5 +1,4 @@
-Home Page of Ireneusz (Irek) SZCZEŚNIAK
-=======================================
+# Home Page of Ireneusz (Irek) SZCZEŚNIAK
 
 ![align = "right"](us.jpg)
 
@@ -14,23 +13,19 @@ got several awards, most notably the Polish National Science Center
 fellowship and the Fulbright fellowship.  But most of all, I'm a
 programmer.
 
-Curriculum vitae
-----------------
+## Curriculum vitae
 
 [Download my CV in the PDF format.](cv.pdf)
 
-Publications
-------------
+## Publications
 
 [Click here, to go further.](publications)
 
-Dla studentów
--------------
+## Dla studentów
 
 [Kliknij tutaj, aby przejść dalej](dydaktyka)
 
-Projects
---------
+## Projects
 
 These are the current and past projects:
 
@@ -45,15 +40,13 @@ These are the current and past projects:
 * [Projects at ETS](projects/ets)
 * [The travel advisor](projects/eote)
 
-Other stuff
------------
+## Other stuff
 
 * [My wife's site](http://www.wozna.org)
 * [My mom's site](http://www.halinaszczesniak.org)
 * [My bro's site](http://ultra.cto.us.edu.pl/%7Ekport)
 * [My games for Atari](atari)
 
-Contact
--------
+## Contact
 
 E-mail: <irek@irkos.org>
