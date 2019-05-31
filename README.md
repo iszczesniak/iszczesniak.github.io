@@ -1,8 +1,8 @@
-Home Page of Ireneusz (Irek) SZCZESNIAK
+Home Page of Ireneusz (Irek) SZCZEŚNIAK
 =======================================
 
 I'm a researcher and an academic teacher at the Institute of Computer
-and Information Sciences of the Czestochowa University of Technology,
+and Information Sciences of the Częstochowa University of Technology,
 Poland.  I'm interested in optical networks, specifically the
 fixed-mobile integration and the elastic optical networks.  I have a
 PhD in computer science from the Polish Academy of Sciences for my
