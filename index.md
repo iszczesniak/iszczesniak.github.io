@@ -32,7 +32,7 @@ most of all, I'm a programmer.
 
 These are the current and past projects:
 
-* [Generic Dijkstra](gde)
+* [Generic Dijkstra](gd)
 * [The ABCD software](abcd)
 * [The PERFOR software](perfor)
 * [The AVAILA software](availa)
