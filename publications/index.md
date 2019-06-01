@@ -1,17 +1,19 @@
+<!-- -*- coding: utf-8 -*- -->
+
 # Articles
 
-* Ireneusz Szcze∂niak, Ireneusz Olszewski, Boøena Woºna-Szcze∂niak,
+* Ireneusz Szcze≈õniak, Ireneusz Olszewski, Bo≈ºena Wo≈∫na-Szcze≈õniak,
   The efficient and optimal algorithm for the dynamic dedicated path
   protection, *submitted to a conference*
 
   * [Go to arXiv.org](https://arxiv.org/abs/1905.04581)
 
-* Ireneusz Szcze∂niak, Andrzej Jajszczyk, Boøena Woºna-Szcze∂niak,
+* Ireneusz Szcze≈õniak, Andrzej Jajszczyk, Bo≈ºena Wo≈∫na-Szcze≈õniak,
   Generic Dijkstra for optical networks, *submitted to a journal*
 
   * [Go to arXiv.org](https://arxiv.org/abs/1810.04481)
 
-* Boøena Woºna-Szcze∂niak, Ireneusz Szcze∂niak, Real-Time Conditional
+* Bo≈ºena Wo≈∫na-Szcze≈õniak, Ireneusz Szcze≈õniak, Real-Time Conditional
   Commitment Logic and Duration Communication Interpreted Systems,
   *15th International Conference on Distributed Computing and
   Artificial Intelligence (DCAI 2018)*. Advances in Intelligent
