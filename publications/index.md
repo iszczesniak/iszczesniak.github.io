@@ -19,5 +19,5 @@
   Artificial Intelligence (DCAI 2018)*. Advances in Intelligent
   Systems and Computing. Springer. Volume 800. pp. 103-111. 2019.
 
-  * [Go to the publisher website]
-    (https://doi.org/10.1007/978-3-319-94649-8_13)
+  * [Go to the publisher
+    website](https://doi.org/10.1007/978-3-319-94649-8_13)
