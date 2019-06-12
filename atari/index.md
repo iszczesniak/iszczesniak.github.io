@@ -11,8 +11,8 @@ games on a PC with the [Atari800 emulator](https://atari800.github.io/).
 
 ## Electra
 
-!(electra_1.gif)!(electra_2.gif)
+![](electra_1.gif)![](electra_2.gif)
 
 ## 3d24
 
-!(3d24_1.gif)!(3d24_2.gif)
+![](3d24_1.gif)![](3d24_2.gif)
