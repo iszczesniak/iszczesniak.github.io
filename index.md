@@ -1,4 +1,6 @@
-<!-- -*- coding: utf-8 -*- -->
+---
+encoding: UTF-8
+---
 
 # Home Page of Ireneusz (Irek) SZCZEŚNIAK
 
