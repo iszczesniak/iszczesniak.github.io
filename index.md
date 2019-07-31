@@ -24,9 +24,9 @@ most of all, I'm a programmer.
 
 [Click here, to go further.](publications)
 
-## Dla studentów
+## C++ notes
 
-[Kliknij tutaj, aby przejść dalej](dydaktyka)
+[Click here, to go further.](cpp)
 
 ## Projects
 
