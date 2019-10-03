@@ -15,8 +15,8 @@ work on performance evaluation of optical packet-switched networks.  I
 have worked at various laboratories and companies in the USA, and have
 got several awards, most notably the Polish National Science Center
 fellowship and the Fulbright fellowship.  I'm the inventor of the
-[generic Dijkstra algorithm](https://arxiv.org/abs/1810.04481).  But
-most of all, I'm a programmer.
+[generic Dijkstra algorithm](https://doi.org/10.1364/JOCN.11.000568).
+But most of all, I'm a programmer.
 
 ## Curriculum vitae
 
