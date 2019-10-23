@@ -2,7 +2,7 @@
 
 # Articles
 
-* {% include refs/JOCN.11.000568.md %}
+* {% include /refs/JOCN.11.000568.md %}
 
   * [Go to arXiv.org](https://arxiv.org/abs/1810.04481)
 
