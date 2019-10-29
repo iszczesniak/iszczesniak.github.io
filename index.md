@@ -16,8 +16,9 @@ have worked at various laboratories and companies in the USA, and have
 got several awards, most notably the Polish National Science Center
 fellowship and the Fulbright fellowship.  I'm the lead author of the
 [Generic Dijkstra for optical
-networks](https://doi.org/10.1364/JOCN.11.000568).  But most of all,
-I'm a programmer.
+networks](https://doi.org/10.1364/JOCN.11.000568), which was
+recognized for its excellence with the Editors' Pick.  But most of
+all, I'm a programmer.
 
 ## Curriculum vitae
 
