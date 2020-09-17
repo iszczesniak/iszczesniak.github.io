@@ -7,7 +7,8 @@
   * [Go to arXiv.org](https://arxiv.org/abs/1905.04581)
 
 * {% include refs/10.1364/JOCN.11.000568.md %}
-  
+
+  * [Go to the publisher website](https://doi.org/10.1364/JOCN.11.000568)
   * [Go to arXiv.org](https://arxiv.org/abs/1810.04481)
 
 * Bożena Woźna-Szcześniak, Ireneusz Szcześniak, Real-Time Conditional
