@@ -2,15 +2,13 @@
 
 # Articles
 
-* {% include refs/10.1364/JOCN.11.000568.md %}
-
-  * [Go to arXiv.org](https://arxiv.org/abs/1810.04481)
-
-* Ireneusz Szcześniak, Ireneusz Olszewski, Bożena Woźna-Szcześniak,
-  The efficient and optimal algorithm for the dynamic dedicated path
-  protection, *submitted to a conference*
+* {% include refs/ddpp.md %}
 
   * [Go to arXiv.org](https://arxiv.org/abs/1905.04581)
+
+* {% include refs/10.1364/JOCN.11.000568.md %}
+  
+  * [Go to arXiv.org](https://arxiv.org/abs/1810.04481)
 
 * Bożena Woźna-Szcześniak, Ireneusz Szcześniak, Real-Time Conditional
   Commitment Logic and Duration Communication Interpreted Systems,
