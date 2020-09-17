@@ -8,14 +8,13 @@ encoding: UTF-8
 
 I'm a researcher and an academic teacher at the Institute of Computer
 and Information Sciences of the Częstochowa University of Technology,
-Poland.  I'm interested in optical networks, specifically the
-fixed-mobile integration and the elastic optical networks.  I have a
-PhD in computer science from the Polish Academy of Sciences for my
-work on performance evaluation of optical packet-switched networks.  I
-have worked at various laboratories and companies in the USA, and have
-got several awards, most notably the Polish National Science Center
-fellowship and the Fulbright fellowship.  I'm the lead author of the
-[Generic Dijkstra for optical
+Poland.  I'm interested in C++ programming, graph algorithms, and
+optical networks.  I have a PhD in computer science from the Polish
+Academy of Sciences for my work on performance evaluation of optical
+packet-switched networks.  I have worked at various laboratories and
+companies in the USA, and have got several awards, most notably the
+Polish National Science Center fellowship and the Fulbright
+fellowship.  I'm the lead author of the [Generic Dijkstra for optical
 networks](https://doi.org/10.1364/JOCN.11.000568), which was
 recognized for its excellence with the Editors' Pick.  But most of
 all, I'm a programmer.
