@@ -15,3 +15,11 @@
 
   * [Go to the publisher
     website](https://doi.org/10.1007/978-3-319-94649-8_13)
+
+* {% include refs/10.23919/ONDM.2017.7958548.md %}
+
+  * [Go to the publisher
+    website](https://doi.org/10.23919/ONDM.2017.7958548)
+  * [Go to arXiv.org](https://arxiv.org/abs/1611.01093)
+  * [Download presentation](ondm2017-presentation.pdf)
+
