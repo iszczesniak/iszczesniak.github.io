@@ -28,3 +28,9 @@
   * [Go to the publisher
     website](https://doi.org/10.1109/JLT.2017.2674182)
   * [Go to arXiv.org](https://arxiv.org/abs/1609.04906)
+
+* {% include refs/10.16926/m.2016.21.14.md %}
+
+  * [Go to the publisher
+    website](https://dx.doi.org/10.16926/m.2016.21.14)
+  * [Download full text](ajd3.pdf)
