@@ -47,7 +47,7 @@ These are the current and past projects:
 * [Projects at ETS](projects/ets)
 * [The travel advisor](projects/eote)
 
-## Other stuff
+## Misc
 
 * [My wife's site](http://www.wozna.org)
 * [My games for Atari](atari)
