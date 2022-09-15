@@ -1,6 +1,9 @@
 <!-- -*- coding: utf-8 -*- -->
 
-# Articles
+# Publications
+
+[//]: # Towards an efficient and exact algorithm for dynamic dedicated
+[//]: # path protection
 
 * {% include refs/ddpp.md %}
 
