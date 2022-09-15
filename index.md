@@ -25,7 +25,7 @@ all, I'm a programmer.
 
 ## Publications
 
-[Click here, to go further.](publications)
+[Click here, to go further.](pubs)
 
 ## C++ notes
 
