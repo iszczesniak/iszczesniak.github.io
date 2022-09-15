@@ -5,8 +5,9 @@
 [//]: # Towards an efficient and exact algorithm for dynamic dedicated
 [//]: # path protection
 
-* {% include refs/ddpp.md %}
+* {% include refs/10.3390/e23091116.md %}
 
+  * [Go to the publisher website](https://doi.org/10.3390/e23091116)
   * [Go to arXiv.org](https://arxiv.org/abs/1905.04581)
 
 [//]: # Generic Dijkstra for Optical Networks
@@ -36,6 +37,5 @@
 
 * {% include refs/10.16926/m.2016.21.14.md %}
 
-  * [Go to the publisher
-    website](https://dx.doi.org/10.16926/m.2016.21.14)
+  * [Go to the publisher website](https://doi.org/10.16926/m.2016.21.14)
   * [Download full text](ajd3.pdf)
