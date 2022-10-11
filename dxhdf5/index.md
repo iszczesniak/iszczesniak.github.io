@@ -31,8 +31,8 @@ I. Szcześniak, J. R. Cary, "dxhdf5: A Software Package for Importing
 HDF5 Physics Data into OpenDX," Computer Physics Communications,
 vol. 164, issue 1-3, Elsevier, pp. 365-369, 2004
 
-<http://irkos.org/publications/dxhdf5.pdf>
+<http://irkos.org/pubs/dxhdf5.pdf>
 
-<http://irkos.org/publications/dxhdf5-presentation.pdf>
+<http://irkos.org/pubs/dxhdf5-presentation.pdf>
 
-<http://irkos.org/publications/dxhdf5-poster.pdf>
+<http://irkos.org/pubs/dxhdf5-poster.pdf>
