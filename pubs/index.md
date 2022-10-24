@@ -2,6 +2,14 @@
 
 # Publications
 
+[//]: # The trade-offs between optimality and feasibility in online
+[//]: # routing with dedicated path protection in elastic optical
+[//]: # networks
+
+* {% include refs/10.3390/e24070891.md %}
+
+  * [Go to the publisher website](https://doi.org/10.3390/e24070891)
+
 [//]: # Towards an efficient and exact algorithm for dynamic dedicated
 [//]: # path protection
 
