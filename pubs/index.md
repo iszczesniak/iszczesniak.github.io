@@ -25,10 +25,15 @@
   * [Go to the publisher website](https://doi.org/10.1364/JOCN.11.000568)
   * [Go to arXiv.org](https://arxiv.org/abs/1810.04481)
 
+[//]: # Real-Time Conditional Commitment Logic and Duration
+[//]: # Communication Interpreted Systems
+
 * {% include refs/10.1007/978-3-319-94649-8_13.md %}
 
   * [Go to the publisher
     website](https://doi.org/10.1007/978-3-319-94649-8_13)
+
+[//]: # Performance of interoperator fixed-mobile network sharing
 
 * {% include refs/10.23919/ONDM.2017.7958548.md %}
 
@@ -37,11 +42,15 @@
   * [Go to arXiv.org](https://arxiv.org/abs/1611.01093)
   * [Download presentation](ondm2017-presentation.pdf)
 
+[//]: # Itinerant routing in elastic optical networks
+
 * {% include refs/10.1109/JLT.2017.2674182.md %}
 
   * [Go to the publisher
     website](https://doi.org/10.1109/JLT.2017.2674182)
   * [Go to arXiv.org](https://arxiv.org/abs/1609.04906)
+
+[//]: # On the SMT-based Verification of Communicative Commitments
 
 * {% include refs/10.16926/m.2016.21.14.md %}
 
