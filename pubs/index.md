@@ -2,6 +2,12 @@
 
 # Publications
 
+[//]: # Generic Dijkstra: correctness and tractability
+
+* {% include refs/correctness.md %}
+
+  * [Go to arXiv.org](https://arxiv.org/abs/2204.13547)
+
 [//]: # The trade-offs between optimality and feasibility in online
 [//]: # routing with dedicated path protection in elastic optical
 [//]: # networks
