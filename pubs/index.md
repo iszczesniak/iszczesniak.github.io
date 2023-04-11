@@ -62,3 +62,10 @@
 
   * [Go to the publisher website](https://doi.org/10.16926/m.2016.21.14)
   * [Download full text](ajd3.pdf)
+
+[//]: # Adapted and constrained Dijkstra for elastic optical networks
+
+* {% include refs/10.1109/ONDM.2016.7494087.md %}
+
+  * [Go to the publisher website](https://doi.org/10.1109/ONDM.2016.7494087)
+  * [Download full text](ajd3.pdf)
