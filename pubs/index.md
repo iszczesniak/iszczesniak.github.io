@@ -68,4 +68,5 @@
 * {% include refs/10.1109/ONDM.2016.7494087.md %}
 
   * [Go to the publisher website](https://doi.org/10.1109/ONDM.2016.7494087)
-  * [Download full text](ajd3.pdf)
+  * [Go to arXiv.org](https://arxiv.org/abs/1904.06994)
+  * [Download presentation](ondm2016-presentation.pdf)
