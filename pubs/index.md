@@ -70,3 +70,11 @@
   * [Go to the publisher website](https://doi.org/10.1109/ONDM.2016.7494087)
   * [Go to arXiv.org](https://arxiv.org/abs/1904.06994)
   * [Download presentation](ondm2016-presentation.pdf)
+
+[//]: # SAT-based Bounded Model Checking for Timed Interpreted Systems
+[//]: # and the RTECTLK properties
+
+* {% include refs/10.16926/m.2015.20.08.md %}
+
+  * [Go to the publisher website](https://doi.org/10.16926/m.2015.20.08)
+  * [Download full text](ajd2.pdf)
