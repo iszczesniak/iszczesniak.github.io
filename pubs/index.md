@@ -1,6 +1,8 @@
 <!-- -*- coding: utf-8 -*- -->
 
-# Publications
+---
+title: Publications
+---
 
 [//]: # Generic Dijkstra: correctness and tractability
 
