@@ -1,8 +1,6 @@
 ---
-encoding: UTF-8
+title: Home Page of Ireneusz (Irek) SZCZEŚNIAK
 ---
-
-# Home Page of Ireneusz (Irek) SZCZEŚNIAK
 
 <img align="right" src="us.jpg">
 
