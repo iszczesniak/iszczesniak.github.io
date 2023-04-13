@@ -1,6 +1,4 @@
----
-title: Publications
----
+# Publications
 
 [//]: # Generic Dijkstra: correctness and tractability
 
