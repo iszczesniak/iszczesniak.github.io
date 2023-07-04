@@ -2,8 +2,9 @@
 
 [//]: # Generic Dijkstra: correctness and tractability
 
-* {% include refs/correctness.md %}
+* {% include refs/10.1109/NOMS56928.2023.10154322.md %}
 
+  * [Go to the publisher website](https://doi.org/10.1109/NOMS56928.2023.10154322)
   * [Go to arXiv.org](https://arxiv.org/abs/2204.13547)
   * [Download presentation](noms2023-presentation.pdf)
 
