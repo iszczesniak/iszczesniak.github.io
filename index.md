@@ -45,7 +45,6 @@ These are the current and past projects:
 
 ## Misc
 
-* [My wife's site](http://www.wozna.org)
 * [My games for Atari](atari)
 
 ## Contact
